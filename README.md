@@ -1,4 +1,4 @@
 # apnacollege-demo
 This  is my first repository
 <br>
-Author Komal Deogade
+Author Komal Deogade(Apna College)
